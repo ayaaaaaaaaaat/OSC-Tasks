@@ -22,3 +22,21 @@ public:
         return last_removed+1;
     }
 };
+// class Solution {
+// public:
+//     int findTheWinner(int n, int k) {
+//         queue<int> q;
+//         for(int i = 1 ; i < n+1 ; ++i)
+//             q.push(i);
+//         while(q.size()!=1){
+//             int j = 0;
+//             while(j < k-1){
+//                 q.push(q.front());
+//                 q.pop();
+//                 j++;
+//             }  
+//             q.pop(); 
+//         }
+//         return q.front() ;
+//     }
+// };
