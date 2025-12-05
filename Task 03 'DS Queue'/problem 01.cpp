@@ -35,7 +35,7 @@ class myQueue {
 
     void dequeue() {
         // Removes the front element of the queue.
-        assert(!isEmpty());
+        if(isEmpty()) return;
         begin = (begin + 1) % capacity;
         size--;
         if (!size) begin = end = -1;
