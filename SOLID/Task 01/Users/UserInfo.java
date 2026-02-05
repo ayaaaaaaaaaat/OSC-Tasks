@@ -10,7 +10,7 @@ public class UserInfo implements UserRepository {
     public UserInfo() {
         String[] locations = {"US", "EU", "CA", "IN", "UK", "AU"};
         for (int i = 1; i <= 30; i++) {
-            String userId = "user" + i;                    // Generate ID
+            String userId = "user" + i;                    
             locationsMap.put(userId,locations[(i-1) % locations.length]);
         }
     }
