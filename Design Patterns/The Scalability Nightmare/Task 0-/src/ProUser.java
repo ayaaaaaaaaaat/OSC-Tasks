@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
-
-public class ProUser {
+public class ProUser extends User{
+    public ProUser(String Email) {
+        super(Email);
+    }
+    @Override
+    public EmailFormatter getEmailFormatter() {
+        return new HtmlFormatter();
+    }
 }
