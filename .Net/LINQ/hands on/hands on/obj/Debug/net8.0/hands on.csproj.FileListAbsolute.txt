@@ -1,0 +1,14 @@
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\bin\Debug\net8.0\hands on.exe
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\bin\Debug\net8.0\hands on.deps.json
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\bin\Debug\net8.0\hands on.runtimeconfig.json
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\bin\Debug\net8.0\hands on.dll
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\bin\Debug\net8.0\hands on.pdb
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\hands on.GeneratedMSBuildEditorConfig.editorconfig
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\hands on.AssemblyInfoInputs.cache
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\hands on.AssemblyInfo.cs
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\hands on.csproj.CoreCompileInputs.cache
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\hands on.dll
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\refint\hands on.dll
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\hands on.pdb
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\hands on.genruntimeconfig.cache
+C:\ayat\IY\OSC S&T\Hands on\LINQ\hands on\hands on\obj\Debug\net8.0\ref\hands on.dll
